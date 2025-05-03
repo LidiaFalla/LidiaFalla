@@ -3,6 +3,7 @@
 
 <h2> Aquí puedes poner todo el contenido que quieras con lenguaje MarkDown o con HTML </h2>
 
-<img src="https://github.com/LidiaFalla/LidiaFalla/recuerdooos.png">
+<img src="https://github.com/LidiaFalla/recuerdooos.png">
+
 
   
