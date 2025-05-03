@@ -3,8 +3,8 @@
 
 <h2> Aquí puedes poner todo el contenido que quieras con lenguaje MarkDown o con HTML </h2>
 
-<img src="recuerdooos.png">
-<img src="images/logo.png" alt="Logo del proyecto" width="200"/>
+<img src="Recuerdooos.png"  alt="Recuerdos" width="200"/>
+
 
 
   
