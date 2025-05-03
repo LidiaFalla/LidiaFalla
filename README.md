@@ -1,5 +1,5 @@
 # Hola chic@s 👋
-## Actualmente me entruentro dando clases en CIFP Federica Montseny, dando clases a unos alumn@s muy apañados
+## Actualmente me entruentro trabajando en CIFP Federica Montseny, dando clases a unos alumn@s muy apañados
 
 <!--
 **LidiaFalla/LidiaFalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
